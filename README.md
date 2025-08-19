@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 Senior Software & AI Engineer with 6+ years of experience designing, developing, and deploying SaaS platforms, Web & Mobile applications, and AI-powered solutions.  
-I specialize in building scalable, cloud-native systems using **React.js, Node.js, Python, JavaScript, and TypeScript**, with advanced expertise in **AI/ML frameworks like TensorFlow and PyTorch**.  
+I specialize in building scalable, cloud-native systems using **React.js, Vue.js Node.js, Python, JavaScript, and TypeScript**, with advanced expertise in **AI/ML frameworks like TensorFlow and PyTorch**.  
 Passionate about creating innovative SaaS products that solve real-world challenges and drive business growth.
 
 ---
@@ -32,6 +32,7 @@ Passionate about creating innovative SaaS products that solve real-world challen
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
