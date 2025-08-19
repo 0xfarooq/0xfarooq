@@ -46,7 +46,7 @@ Passionate about creating innovative SaaS products that solve real-world challen
 
 ---
 
-## 🌟 Philosophy  
+## Philosophy  
 💡 Driving innovation by leading teams to deliver impactful, industry-shaping solutions.  
 🌍 Committed to continuous growth while uplifting others through mentorship and collaboration.  
 ⚡ Passionate about advancing technology and building cultures where excellence thrives.  
