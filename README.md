@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! &nbsp;<a href="$"><img src="https://github.com/jerraxglob/farooq.jpg/blob/main/icons/wave.gif" width="48"></a></h1>
+<h1 align="center">Hi there! &nbsp;<a href="$"><img src="https://github.com/jerraxglob/0xfarooq/blob/main/icons/wave.gif" width="48"></a></h1>
 
 <h3 align="center"> Senior Full-Stack Engineer | AI & ML | Python & Node.js Developer </h3>
 
